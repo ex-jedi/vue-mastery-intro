@@ -1,0 +1,22 @@
+{
+  "name": "vue-mastery-intro",
+  "version": "1.0.0",
+  "description": "Vue Mastery Tutorial One",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ex-jedi/vue-mastery-intro.git"
+  },
+  "keywords": [
+    "Vue"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ex-jedi/vue-mastery-intro/issues"
+  },
+  "homepage": "https://github.com/ex-jedi/vue-mastery-intro#readme"
+}
